@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31514
     wikipedia: http://en.wikipedia.org/wiki/Otto_von_Kotzebue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25815#A-New-Voyage-Round-the-World-in-the-years-1823-24-25-and-26-Vol.-2
 gutenberg_issued: '2008-06-17'
 gutenberg_type: Text
 identifiers:
