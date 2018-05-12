@@ -1,0 +1,30 @@
+_repo: A-New-Voyage-Round-the-World-in-the-years-1823-24-25-and-26-Vol.-2_25815
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kotzebue, Otto von
+    birthdate: 1787
+    deathdate: 1846
+    gutenberg_agent_id: '31514'
+    url: http://www.gutenberg.org/2009/agents/31514
+    wikipedia: http://en.wikipedia.org/wiki/Otto_von_Kotzebue
+description: ''
+gutenberg_issued: '2008-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Predpriiatie (Ship)'
+- !lcsh 'Voyages around the world'
+- !lcsh 'Discoveries in geography'
+- !lcsh 'Zoology'
+title: A New Voyage Round the World, in the years 1823, 24, 25, and 26, Vol. 2
+url: http://www.gutenberg.org/ebooks/25815
